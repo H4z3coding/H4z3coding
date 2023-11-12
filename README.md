@@ -4,9 +4,6 @@
 <a href="https://github.com/Ayhuuu"><img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"></a>
 
 
-// <p align="center">
-//  <img style="border-radius: 15px; display: block; margin: 0 auto; margin-bottom: 20px;" width="400" src="https://media.tenor.com/MHueN8g4aHkAAAAd/sniper-sniper-mask.gif">
-// </p>
 
 
 
@@ -32,7 +29,6 @@ def  __working__(self):
  Working "Discord Multi Tool" 85%
 ```
 
-// <p align="center"><img src="https://media.tenor.com/MHueN8g4aHkAAAAd/sniper-sniper-mask.gif" alt=":H4z3" /></p>
 
  
 
