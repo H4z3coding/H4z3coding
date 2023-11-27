@@ -20,9 +20,6 @@ A passionate frontend developer from *Kosovo*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ermalhasani&label=Profile%20views&color=0e75b6&style=flat" alt="ermalhasani" /> </p>
 
-
-### Socials
-
 <p align="left"> <a href="https://www.github.com/ErmalHasani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
